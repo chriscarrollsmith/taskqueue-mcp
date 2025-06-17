@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chriscarrollsmith-taskqueue-mcp-badge.png)](https://mseep.ai/app/chriscarrollsmith-taskqueue-mcp)
+
 # MCP Task Manager
 
 [![smithery badge](https://smithery.ai/badge/@chriscarrollsmith/taskqueue-mcp)](https://smithery.ai/server/@chriscarrollsmith/taskqueue-mcp)
