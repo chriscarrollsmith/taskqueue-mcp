@@ -17,7 +17,7 @@ export enum AppErrorCode {
     // Business Logic / State Rules (ERR_3xxx)
     TaskNotDone = 'ERR_3000', // Cannot approve/finalize if task not done
     ProjectAlreadyCompleted = 'ERR_3001',
-    // No need for CannotDeleteCompletedTask, handle in logic
+    // Completed tasks may be deleted (no CannotDeleteCompletedTask restriction)
     TasksNotAllDone = 'ERR_3003', // Cannot finalize project
     TasksNotAllApproved = 'ERR_3004', // Cannot finalize project
     CannotModifyApprovedTask = 'ERR_3005', // Added for clarity
